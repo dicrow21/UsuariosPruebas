@@ -1,0 +1,19 @@
+{
+  "name": "restserver",
+  "version": "1.0.0",
+  "description": "RestServer practica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Rodriguez Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "body-parse": "^0.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.15",
+    "mongoose-unique-validator": "^2.0.2",
+    "underscore": "^1.9.1"
+  }
+}
